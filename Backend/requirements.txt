@@ -1,0 +1,6 @@
+transformers==5.17.0
+tokenizers==0.23.2
+imageio-ffmpeg==0.6.0
+indic-transliteration==2.3.58
+torch==2.4.0
+...

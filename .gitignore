@@ -1,0 +1,42 @@
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Python
+.venv/
+.venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models (5 GB — never commit)
+Backend/models/
+models/
+
+# Outputs
+Backend/outputs/
+outputs/
+
+# Secrets
+*.jks
+*.keystore
+google-services.json
+
+# Logs
+*.log
+server_log.txt
+parler_test.txt
+
+# IDE
+.vs/
+.vscode/
